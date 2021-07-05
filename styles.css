@@ -1,0 +1,34 @@
+body {
+  background-color: #D1CCB4;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+h1 {
+  color: #30353D;
+  font-family: 'Roboto', sans-serif;
+  background-color: #c18e8e;
+  border-radius: 5px;
+  text-align: center;
+}
+
+th, 
+td {
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+  border-bottom: 3px solid #30353D;
+  text-align: center;
+}
+
+th {
+  background-color: #30353D;
+  color: white;
+}
+
+.code {
+  background-color: #5A888C;
+  font-family: Helvetica;
+}
+
